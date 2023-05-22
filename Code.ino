@@ -4,10 +4,7 @@ Shubh Khandelwal
 CS22B1090
 
 Project 01: Environment Sensor
-
-The attached file is the electronic design for an environment sensor.
-The design uses a gas sensor and a temperature sensor to understand the environment of Mars better.
-The connections have been made with an Arduino Uno for processing the input given by the sensors.
+ 
 */
 
 // C++ code
