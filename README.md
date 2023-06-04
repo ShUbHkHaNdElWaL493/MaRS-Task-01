@@ -1,5 +1,5 @@
 # MaRS-Task-01
-@Project 03
+@ Project-03
 
 The schematics for a motion sensor have been included in the following file.
 This sensor has been made using the ultrasonic distance sensor and the PIR sensor.
